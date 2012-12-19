@@ -59,6 +59,13 @@ sup {
 sub {
   bottom: -0.25em;
 }
+.head{
+	margin-top:60px;
+}
+.logo{
+	float:right;
+	margin-bottom:5px;
+}
 img {
   /* Responsive images (ensure images don't scale beyond their parents) */
 
@@ -3651,6 +3658,16 @@ input[type="submit"].btn.btn-mini {
   padding: 15px 20px 15px;
   margin-left: -20px;
   font-size: 20px;
+  font-weight: 200;
+  color: #ffffff;
+  text-shadow: 0 1px 0 #ad1d28;
+}
+.navbar .brand-right {
+  float: right;
+  display: block;
+  padding: 15px 20px 15px;
+  margin-left: -20px;
+  font-size: 18px;
   font-weight: 200;
   color: #ffffff;
   text-shadow: 0 1px 0 #ad1d28;
